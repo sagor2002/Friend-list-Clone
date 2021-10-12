@@ -1,5 +1,5 @@
 # Friend-list-Clone
-Floow my Command
+Fellow my Command
 
 $ pkg update
 
